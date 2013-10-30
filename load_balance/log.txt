@@ -1,0 +1,5 @@
+2013-07-15 08:55:39WSAStartup error!;
+2013-07-15 08:57:14WSAStartup error!;
+2013-07-15 09:10:05socket create error! 5;
+2013-07-15 11:08:52server ¡¾1¡¿ register!;
+2013-07-15 17:18:35recv msg from client¡¾1¡¿!;
