@@ -19,4 +19,4 @@ In it, there are three parts, such as load balance, client, server.
 
 And this is a win32 software, and it use UDP to communicate with each other.
 
-It has log, config files.
+It has the functions of log and config files.
