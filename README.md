@@ -1,22 +1,26 @@
-LBDemo
-======
+#load-balance-demo
+>A demo of load balancing in windows.
+>It contains client, server and loadbance, writen in c++ with VS.
 
-a demo of load balancing 
+##Start
+*  open a vs, such as vs2008.
+*  open this project in it
+*  build and start
+*  edit config in xml
 
-=====
+##Use
+*  c++
+*  STL
+*  multi threading
+*  socket
+*  udp
+*  xml config
+*  run log
 
-This is a demo of load balance software.
 
-It comes from a competition.
+##More
+  In it, there are three parts, such as load balance, client, server. As a win32 software, it just start by command.
 
-Use c++
+  Considering the effections in the communication of the local area network, it use UDP to communicate with each other. For failure in communications, it use restransmisson method to avoid lose of message.
 
-Multithreading and STL
-
-=====
-
-In it, there are three parts, such as load balance, client, server.
-
-And this is a win32 software, and it use UDP to communicate with each other.
-
-It has the functions of log and config files.
+  What's more, it has the functions of log and config files.
