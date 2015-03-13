@@ -1,4 +1,4 @@
-#load-balance-demo
+#mLVS
 >A demo of load balancing in windows.
 >It contains client, server and loadbance, writen in c++ with VS.
 
