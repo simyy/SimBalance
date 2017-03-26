@@ -1,4 +1,4 @@
-##simpleBalance
+# simpleBalance
 >UDP实现的负载均衡程序，包含服务器和服务器，通过C++实现。
 
 A demo of load balancing in windows.
@@ -6,7 +6,7 @@ A demo of load balancing in windows.
 It contains client, server and loadbance, writen in c++ with VS.
 
 
-####Start
+## Start
 开始方法：打开VS并编辑配置文件xml
 
 *  open a vs, such as vs2008.
@@ -14,7 +14,7 @@ It contains client, server and loadbance, writen in c++ with VS.
 *  build and start
 *  edit config in xml
 
-####Use
+## Use
 使用C++、STL、多线程、socket、UDP、XML、log等
 
 *  c++
@@ -26,7 +26,7 @@ It contains client, server and loadbance, writen in c++ with VS.
 *  run log
 
 
-####More
+## More
 
   In it, there are three parts, such as load balance, client, server. 
   
