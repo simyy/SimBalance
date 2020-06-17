@@ -1,5 +1,6 @@
-# SimBalance
->UDP实现的负载均衡程序，包含服务器和服务器，通过C++实现。
+# simbalance
+
+> UDP实现的负载均衡程序，包含服务器和服务器，通过C++实现。
 
 A demo of load balancing in windows.
 
@@ -7,6 +8,7 @@ It contains client, server and loadbance, writen in c++ with VS.
 
 
 ## Start
+
 开始方法：打开VS并编辑配置文件xml
 
 *  open a vs, such as vs2008.
@@ -15,6 +17,7 @@ It contains client, server and loadbance, writen in c++ with VS.
 *  edit config in xml
 
 ## Use
+
 使用C++、STL、多线程、socket、UDP、XML、log等
 
 *  c++
