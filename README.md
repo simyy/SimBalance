@@ -1,4 +1,4 @@
-# simpleBalance
+# SimBalance
 >UDP实现的负载均衡程序，包含服务器和服务器，通过C++实现。
 
 A demo of load balancing in windows.
